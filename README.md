@@ -1,6 +1,6 @@
 ## Group Members
-- Bilal Khalid (ID: CS-241829)
-- Ahmad Shafique (ID: CS-241844)
+- Bilal Khalid (ID: CS-241844)
+- Ahmad Shafique (ID: CS-241829)
 
 
 
